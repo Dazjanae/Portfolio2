@@ -1,6 +1,5 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
-
 /*
 	Photon by HTML5 UP
 	html5up.net | @ajlkn
@@ -2395,7 +2394,7 @@ input, select, textarea {
 
 			.image.fit img {
 				width: 100%;
-				border-radius: 50%;
+				border-radius: 10%;
 			}
 
 /* List */
